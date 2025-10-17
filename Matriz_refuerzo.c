@@ -10,3 +10,4 @@ for (i=0; i<3; i++) {
     printf("La suma de los elementos es: %d\n", suma);
     return 0;
 }
+//¿Qué línea falta para completar el programa?
